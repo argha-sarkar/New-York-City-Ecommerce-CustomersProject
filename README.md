@@ -23,7 +23,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#environment-variables">Usage</a></li>
+    <li><a href="#environment-variables">Environment Variables</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#license">License</a></li>
     
