@@ -76,9 +76,9 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * python
-  ```bash
+```bash
   sudo apt install python3.8
-  ```
+```
 * After install Python3 then Install pip
 
 ```bash
