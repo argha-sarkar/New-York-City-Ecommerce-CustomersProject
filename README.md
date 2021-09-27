@@ -136,7 +136,7 @@ To run this project, you will need to the following environment:
 </a>
 <br>
 <br>
-Project Link: [https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject] (https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject)
+Project Link: [https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject](https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject)
 
   
 ## License
