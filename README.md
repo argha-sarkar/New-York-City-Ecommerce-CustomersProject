@@ -122,7 +122,9 @@ To run all this project, you will need to the following environment
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+[@linkedin](https://www.linkedin.com/in/arghasarkar/)
+[@Twitter](https://twitter.com/arghasa64623109)
+
 
 Project Link: [https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject](https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject)
 
