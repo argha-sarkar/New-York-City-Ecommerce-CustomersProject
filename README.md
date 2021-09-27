@@ -82,7 +82,7 @@ This is an example of how to list things you need to use the software and how to
   ```bash
   sudo apt install python3.8
   ```
-  * After install Python3 then Install pip
+* After install Python3 then Install pip
 
 ```bash
   pip install pip
@@ -110,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Environment Variables
 
-To run all this project, you will need to the following environment 
+To run this project, you will need to the following environment:
 
 `Windows`
 
