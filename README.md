@@ -122,8 +122,18 @@ To run this project, you will need to the following environment:
 <!-- CONTACT -->
 ## Contact
 
-[@linkedin](https://www.linkedin.com/in/arghasarkar/)
-[@Twitter](https://twitter.com/arghasa64623109)
+<a href="https://www.linkedin.com/in/arghasarkar/">
+  <img align="left" alt="Argha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/argha-sarkar/argha-sarkar/8e50f562de5454b46a609ced8a87bb256b9a22d8/ImageFolder/logo/linkedin.svg" />
+</a>
+
+<a href="https://medium.com/@arghasarkar5373/">
+  <img align="left" alt="Argha's Medium" width="22px" src="https://raw.githubusercontent.com/argha-sarkar/argha-sarkar/main/ImageFolder/logo/medium-logo-93CDCF6451-seeklogo.com.png" />
+</a>
+
+
+<a href="https://twitter.com/arghasa64623109">
+  <img align="left" alt="Argha's Medium" width="22px" src="https://raw.githubusercontent.com/argha-sarkar/argha-sarkar/main/ImageFolder/logo/Twitter-Logo-PNG3.png" />
+</a>
 
 
 Project Link: [https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject](https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject)
