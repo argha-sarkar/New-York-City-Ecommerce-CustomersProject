@@ -1,1 +1,1 @@
-# New-York-City-Ecommerce-CustomersProject
+# New York City Ecommerce-Customers Project
