@@ -15,7 +15,7 @@
       </ul>
     </li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
-    <li><a href="#author">Acknowledgements</a></li>
+    <li><a href="#author">Author</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
