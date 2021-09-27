@@ -14,6 +14,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -21,12 +22,13 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#environment-variables">Usage</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    
   </ol>
 </details>
 
@@ -49,11 +51,17 @@ This section should list any major frameworks that you built your project using.
 
 
 ## Acknowledgements
-Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
-pandas, matplotlib, seaborn in the future.
-
- - [Python Basics](https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics)
- 
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Pages](https://pages.github.com)
+* [Animate.css](https://daneden.github.io/animate.css)
+* [Loaders.css](https://connoratherton.com/loaders)
+* [Slick Carousel](https://kenwheeler.github.io/slick)
+* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
+* [Sticky Kit](http://leafo.net/sticky-kit)
+* [JVectorMap](http://jvectormap.com)
+* [Font Awesome](https://fontawesome.com)
   
 ## Authors
 
@@ -78,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
   pip install pip
 ```
 
-## Installation
+### Installation
 
 * Install some importents libaries - 
 
