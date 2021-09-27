@@ -38,6 +38,15 @@ The company is trying to decide whether to focus their efforts on their mobile a
 
 Just follow the steps below to analyze the customer data (it's fake, don't worry I didn't give you real credit card numbers or emails).
 
+### Built With
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Python](https://www.python.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+
 
 ## Acknowledgements
 Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
