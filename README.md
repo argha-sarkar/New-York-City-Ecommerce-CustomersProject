@@ -59,25 +59,28 @@ pandas, matplotlib, seaborn in the future.
 
 - [@argha-sarkar](https://github.com/argha-sarkar)
 
-  
-## Installation
+<!-- GETTING STARTED -->
+## Getting Started
 
-Install Python3 on Ubuntu or Windows
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-```bash
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* python
+  ```bash
   sudo apt install python3.8
-```
-Check-out Python3 Version 
-
-```bash
-  python3 --version
-```
-After install Python3 then Install pip
+  ```
+  * After install Python3 then Install pip
 
 ```bash
   pip install pip
 ```
-Install some importents libaries - 
+
+## Installation
+
+* Install some importents libaries - 
 
 ```bash
   pip install jupyter
