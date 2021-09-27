@@ -15,6 +15,7 @@
       </ul>
     </li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#author">Acknowledgements</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -26,8 +27,9 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#license">License</a></li>
+    
     
   </ol>
 </details>
@@ -63,7 +65,7 @@ This section should list any major frameworks that you built your project using.
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
   
-## Authors
+## Author
 
 - [@argha-sarkar](https://github.com/argha-sarkar)
 
@@ -115,6 +117,14 @@ To run all this project, you will need to the following environment
 `Linux`
 
 `MacOSX`
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject](https://github.com/argha-sarkar/New-York-City-Ecommerce-CustomersProject)
 
   
 ## License
