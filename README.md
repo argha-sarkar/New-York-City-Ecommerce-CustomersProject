@@ -17,11 +17,6 @@ pandas, matplotlib, seaborn in the future.
  - [Python Basics](https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics)
  
   
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/argha-sarkar/Cheatsheet/main/image/Screenshot%20from%202021-08-20%2019-36-10.png)
-
-  
 ## Authors
 
 - [@argha-sarkar](https://github.com/argha-sarkar)
@@ -29,7 +24,7 @@ pandas, matplotlib, seaborn in the future.
   
 ## Installation
 
-Install Python3 on Ubuntu
+Install Python3 on Ubuntu or Windows
 
 ```bash
   sudo apt install python3.8
@@ -49,7 +44,19 @@ Install Jupyter Notebook
 ```bash
   pip install jupyter
 ```
-    
+```bash
+  pip install pandas
+```
+```bash
+  pip install numpy
+```
+```bash
+  pip install matplotlib
+```
+```bash
+  pip install seaborn
+```
+
 ## Environment Variables
 
 To run all this project, you will need to the following environment 
@@ -59,12 +66,6 @@ To run all this project, you will need to the following environment
 `Linux`
 
 `MacOSX`
-
-  
-## Roadmap
-
-- First Python basics
-
 
   
 ## License
