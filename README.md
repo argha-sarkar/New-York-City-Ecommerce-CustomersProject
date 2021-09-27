@@ -41,7 +41,7 @@ After install Python3 then Install pip
 ```bash
   pip install pip
 ```
-Install some libaries - 
+Install some importents libaries - 
 
 ```bash
   pip install jupyter
